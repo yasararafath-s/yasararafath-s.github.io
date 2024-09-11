@@ -1,0 +1,47 @@
+project:
+  type: website
+website:
+  title: "Sharfudeen Yasar Arafath"
+  navbar:
+    background: secondary
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: project.qmd
+        text: Projects
+      - text: Get in touch!
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/yasar-arafath-chemist/
+            target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:yasar15185@gmail.com
+          - icon: instagram
+            text: Instagram
+            href: https://www.instagram.com/
+            target: _blank  
+    tools:
+      - icon: github
+        href: https://github.com/yasararafath-s
+  page-footer: 
+    left: © Copyright 2024, Sharfudeen Yasar Arafath
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/yasararafath-s){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
+
+format:
+  html:
+    page-layout: full
+    sidebar: false
+    theme: superhero
+    css: styles.css
+    mainfont: Chakra Petch
+    toc: true
+
+
+

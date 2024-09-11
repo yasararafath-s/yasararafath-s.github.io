@@ -1,0 +1,26 @@
+---
+title: "Sharfudeen Yasar Arafath"
+image: images/Yasar.jpg
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 14em
+    links: 
+      - icon: github
+        #text: "GitHub"
+        href: https://github.com/yasararafath-s{target=_blank}
+      - icon: google
+        #text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=FyYoDmIAAAAJ&hl=en{target=_blank}
+      - icon: linkedin 
+        #text: "LinkedIn"
+        href: https://www.linkedin.com/in/yasar-arafath-chemist/{target=_blank}
+---
+
+**Yasar Arafath Sharfudeen** is a Ph.D. candidate at Pusan National University, specializing in Environmental and Analytical Chemistry. With over six years of experience in the pharmaceutical industry, he excels in advanced techniques like LC-MS, GC-MS, and data analysis with Python and R. His research focuses on addressing water and soil pollution through innovative solutions.
+
+**Poke around to explore my work and learn more [about me](about.qmd) !**
+
+
+
+<!--  Yasar Arafath Sharfudeen, a Ph.D. candidate at Pusan National University, is distinguished for his expertise in Environmental and Analytical Chemistry. Over six years of experience in the pharmaceutical industry have been accumulated, specializing in advanced analytical techniques such as LC-MS, GC-MS, HPLC, and wastewater-based epidemiology. Proficiency in Python and R has been applied to complex data analysis, contributing to groundbreaking research in water and soil pollution. Strong problem-solving skills and a deep understanding of regulatory standards have enabled effective collaboration across interdisciplinary teams. The current focus is on pioneering sustainable solutions to environmental degradation, with a commitment to using scientific innovation to drive positive change in pollution control and ecosystem restoration. -->

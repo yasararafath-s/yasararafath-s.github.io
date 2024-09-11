@@ -1,0 +1,49 @@
+---
+title: "Publications"
+echo: false
+editor: visual
+---
+
+```{r}
+# Manually define your publication list
+publications <- list(
+    list(
+    year = 2024,
+    title = "Distribution and ecological risk assessment of priority water pollutants in surface river sediments with emphasis on industrially affected areas",
+    authors = "W Sim, OD Ekpe, EH Lee, SY Arafath, M Lee, KH Kim, JE Oh",
+    journal = "Chemosphere",
+    volume = 352,
+    page = "141275"
+  ),
+  list(
+    year = 2023,
+    title = "Tracking methamphetamine and amphetamine consumption patterns in South Korea via enantiomeric analysis of wastewater",
+    authors = "YA Sharfudeen, HJ Cha, JE Oh",
+    journal = "Science of the Total Environment",
+    volume = 905,
+    page = "166910"
+  ),
+  list(
+    year = 2020,
+    title = "Controlled green synthesis of polymer functionalized zinc oxide nanoparticles",
+    authors = "P Jerome, SY Arafath, SG Babu",
+    journal = "Green Reports",
+    volume = "1 (1)",
+    page = "16-20"
+  ),
+   list(
+    year = 2019,
+    title = "Effect of 2‐Bromopyridine Ancillary Ligand in the Catalysis of Pd (II)‐NNN Pincer Complexes towards Suzuki‐Miyaura Cross‐Coupling Reaction",
+    authors = "P Jerome, SY Arafath, J Haribabu, NSP Bhuvanesh, R Karvembu",
+    journal = "ChemistrySelect",
+    volume = "4 (7)",
+    page = "12237-2241"
+  )
+)
+
+# Loop through each publication and print it out in the desired format
+for (pub in publications) {
+  cat(pub$year, "\n")
+  cat("",pub$title, "\n", pub$authors, "\n", pub$journal, pub$volume, ",", pub$page, "\n\n")
+}
+```

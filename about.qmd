@@ -1,0 +1,41 @@
+---
+title: "About"
+subtitle: "a bit more about me and my work"
+echo: false
+title-block-banner: false
+---
+
+### {{< fa graduation-cap >}}  Academic Profile
+
+  
+I am Yasar Arafath Sharfudeen, a Ph.D. candidate at [Pusan National University](https://www.pusan.ac.kr/eng/Main.do){target="_blank"} in South Korea. I specialize in [Environmental Chemistry](https://envanal.pusan.ac.kr/sites/envanal/index.do){target="_blank"}, focusing on analyzing and mitigating environmental pollutants, particularly in water and soil ecosystems. My research leverages advanced analytical techniques like LC-MS, GC-MS, and wastewater-based epidemiology, using Python and R to conduct complex data analysis for actionable insights.
+
+My academic journey started with a Master’s degree in Chemistry from [NIT Tiruchirappalli](https://www.nitt.edu/){target="_blank"}, where I honed my skills in Analytical Chemistry, conducting research in organic and inorganic compound synthesis and characterization. Prior to that, I completed my Bachelor’s degree in Chemistry at [Jamal Mohamed College](https://jmc.edu/){target="_blank"}, gaining a strong foundation in chemical sciences and laboratory techniques.
+
+I’m passionate about finding innovative solutions for pollution control and environmental restoration, combining my academic expertise and technical skills to tackle real-world environmental challenges.
+
+### {{< fa flask >}} Professional Expertise 
+
+Before pursuing my Ph.D., I gained over six years of experience in the pharmaceutical industry, working with leading companies like [Strides Pharma Science Limited](https://www.strides.com/){target="_blank"}, [Syngene International Limited](https://www.syngeneintl.com/){target="_blank"}, and [Amway India Enterprises Private Limited](https://www.amway.in/){target="_blank"}. My roles focused on quality control, method development, and regulatory compliance, where I applied advanced analytical techniques like HPLC, GC, and LC-MS/MS to ensure product quality and adherence to industry standards.
+
+I played key roles in method validation, stability testing, and SOP development, while also managing cross-functional teams to maintain laboratory excellence. My experience with GLP, GxP, and cGMP compliance shaped my understanding of the rigorous standards necessary for quality assurance in the industry.
+
+Some of my core competencies include:
+
+- Advanced Analytical Techniques: LC-MS, GC-MS, HPLC
+- Data Analysis: Python, R
+- Regulatory Compliance: GLP, GxP, cGMP
+- Laboratory Management and SOP Development
+
+### {{< fa heart >}} Personal Life
+
+**Outside the Lab**
+
+When I’m not immersed in research or industry projects, I love playing **cricket**, **listening to music**, and occasionally **reading**. These hobbies keep me balanced and help recharge my mind, giving me the energy and focus I need for my professional and academic life.
+
+Living in **Trichy**, I’m also fond of spending time outdoors, finding inspiration in nature, which fuels my passion for environmental restoration.
+
+###  {{< fa info-circle >}} Get to Know Me
+
+I’m always eager to explore new opportunities for collaboration and knowledge-sharing. Feel free to explore my work and reach out if you’d like to discuss projects, research, or just chat about environmental science and data analysis.
+
